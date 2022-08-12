@@ -1,0 +1,23 @@
+body{
+    background-image: url(21017.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div{
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: bold;
+    text-shadow: 0 0 rgb(255, 230, 0), 0 0 10px rgb(248, 248, 247);
+    margin-top: 20px;
+    
+}
+.info{
+    width: 500px;
+    border: solid 1px whitesmoke;
+    color: antiquewhite;
+    text-shadow: 0 0 orange,0 0 20px wheat;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
